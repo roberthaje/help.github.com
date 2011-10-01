@@ -1,4 +1,3 @@
-
 1. <span class="step-title">Set your username and email.</span>
 
 	Git tracks who makes each commit by checking the user&rsquo;s name and email. In addition, we use this info to associate your commits with your GitHub account. To set these, enter the code below, replacing the name and email with your own. The name should be your _actual name_, not your GitHub username.
